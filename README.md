@@ -21,3 +21,9 @@ Meeting Link: https://meet.jit.si/wsm-x-adopt-dev-course
   3. Use ```npm run dev``` to make sure that steps 1 and 2 worked
   4. Complete the four styling challenges
   5. Add your changes to the ADOPT repo (two options)
+  
+- Learn about CSS
+  - https://www.freecodecamp.org/learn/
+  - https://developer.mozilla.org/en-US/docs/Web/CSS
+  - https://www.w3schools.com/css/default.asp
+  - Remember that you can always just go to YouTube and search for "CSS Shadows," for example
