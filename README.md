@@ -3,6 +3,7 @@
 Meeting Link: https://meet.jit.si/wsm-x-adopt-dev-course
 
 ## Session 1 - 2021-02-08
+[Video Link](https://youtu.be/kBauyvLwwLE)
 - Moving from our React stack to Next.js
 - Creating routes: power and pitfalls of abstraction
   - Shared goals of this course
@@ -12,6 +13,8 @@ Meeting Link: https://meet.jit.si/wsm-x-adopt-dev-course
 - This week's assignment
 
 ## Session 1 Follow Up
+[Video Link](https://youtu.be/Q-Y5TUIv00g)
+
 - Git, GitHub, [GitHub CLI](https://cli.github.com/)
   - (Or [GitHub Desktop](https://desktop.github.com/))
 - GitHub Authentication: See if you can [set up your personal access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
