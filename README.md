@@ -2,6 +2,15 @@
 
 Meeting Link: https://meet.jit.si/wsm-x-adopt-dev-course
 
+## Session 2 - 2021-02-15
+[Video Link]()
+- Git, GitHub and GitHub CLI
+- Dynamic routes in Next.js
+- Where can data come from?
+
+## Session 2 Follow Up
+I need to see how far we get tonight - will post a follow up assignment afterward.
+
 ## Session 1 - 2021-02-08
 [Video Link](https://youtu.be/kBauyvLwwLE)
 - Moving from our React stack to Next.js
